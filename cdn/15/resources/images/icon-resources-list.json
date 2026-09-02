@@ -1,0 +1,22 @@
+{
+  "1785666687135.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1785666687135.png",
+    "properties": {
+      "filename": "1785666687135.png",
+      "originalName": "hamburger.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1785666687135.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1788186813347.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1788186813347.png",
+    "properties": {
+      "filename": "1788186813347.png",
+      "originalName": "namria-logo.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1788186813347.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}

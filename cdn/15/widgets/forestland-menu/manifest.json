@@ -1,0 +1,21 @@
+{
+  "name": "forestland-menu",
+  "label": "Forestland Menu",
+  "type": "widget",
+  "version": "1.21.0",
+  "exbVersion": "1.21.0",
+  "author": "Angelo Bracero",
+  "description": "A widget that displays a menu with customizable content.",
+  "copyright": "",
+  "license": "MIT",
+  "properties": {
+    "hasConfig": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}

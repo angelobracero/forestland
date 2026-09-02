@@ -1,0 +1,32 @@
+{
+  "1785665645480": {
+    "originalName": "home_bg.png",
+    "fileName": "1785665645480.png",
+    "size": 6061147,
+    "url": "${appResourceUrl}/images/widget_25/1785665645480.png",
+    "created": 1785665645480,
+    "resourcesPrefix": "images/widget_25",
+    "referedIds": [],
+    "originId": "1785665645480",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 2688,
+    "originalHeight": 1512,
+    "referredIds": []
+  },
+  "1785889230583": {
+    "originalName": "NAMRIA Logo_2024.jpg",
+    "fileName": "1785889230583.jpg",
+    "size": 680935,
+    "url": "${appResourceUrl}/images/widget_154/1785889230583.jpg",
+    "created": 1785889230583,
+    "resourcesPrefix": "images/widget_154",
+    "referedIds": [],
+    "originId": "1785889230583",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 306,
+    "originalHeight": 306,
+    "referredIds": []
+  }
+}
