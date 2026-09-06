@@ -1,0 +1,1733 @@
+{
+  "pages": {
+    "page_7": {
+      "id": "page_7",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_9"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Home",
+      "header": true,
+      "footer": false,
+      "maxWidth": 2048,
+      "bodyBackgroundColor": "#ffffff",
+      "bodyTextColor": "#1a1c1c"
+    },
+    "page_8": {
+      "id": "page_8",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_24"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "About",
+      "header": true,
+      "footer": false
+    },
+    "page_9": {
+      "id": "page_9",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_27"
+      },
+      "isVisible": true,
+      "heightInBuilder": {
+        "LARGE": 2836,
+        "MEDIUM": 2139,
+        "SMALL": 5056
+      },
+      "isDefault": false,
+      "header": true,
+      "label": "Gender and Development",
+      "footer": false
+    },
+    "page_11": {
+      "id": "page_11",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_70"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "View Feedbacks",
+      "header": true,
+      "footer": false
+    },
+    "page_12": {
+      "id": "page_12",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_72"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "LCD in Action",
+      "header": true,
+      "footer": false
+    },
+    "page_13": {
+      "id": "page_13",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_75"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "Proposed LC Maps",
+      "header": true,
+      "footer": false
+    },
+    "page_15": {
+      "id": "page_15",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_114"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "Guides and Tutorials",
+      "header": true,
+      "footer": false
+    },
+    "page_17": {
+      "id": "page_17",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_125"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "Content Admin",
+      "header": true,
+      "footer": false
+    }
+  },
+  "layouts": {
+    "layout_9": {
+      "type": "FLOW",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_216",
+          "bbox": {
+            "left": "95px",
+            "right": "895px",
+            "top": "0px",
+            "bottom": "500px",
+            "width": "800px",
+            "height": 520
+          },
+          "setting": {
+            "heightMode": "auto",
+            "width": "100%"
+          }
+        }
+      },
+      "order": [
+        "1"
+      ],
+      "setting": {
+        "gutter": 0
+      }
+    },
+    "layout_21": {
+      "content": {},
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_24": {
+      "type": "FLOW",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_238",
+          "bbox": {
+            "left": "0px",
+            "right": "800px",
+            "top": "0px",
+            "bottom": "600px",
+            "width": "800px",
+            "height": 620
+          },
+          "setting": {
+            "heightMode": "auto"
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_27": {
+      "type": "FLOW",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_231",
+          "bbox": {
+            "left": "0px",
+            "right": "800px",
+            "top": "0px",
+            "bottom": "600px",
+            "width": "800px",
+            "height": 620
+          },
+          "setting": {
+            "heightMode": "auto"
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_70": {
+      "type": "FLOW",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_233",
+          "bbox": {
+            "left": "0px",
+            "right": "800px",
+            "top": "0px",
+            "bottom": "600px",
+            "width": "800px",
+            "height": 620
+          },
+          "setting": {
+            "heightMode": "auto"
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_72": {
+      "type": "FLOW",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_240",
+          "bbox": {
+            "left": "0px",
+            "right": "800px",
+            "top": "0px",
+            "bottom": "600px",
+            "width": "800px",
+            "height": 620
+          },
+          "setting": {
+            "heightMode": "auto"
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_75": {
+      "type": "FIXED",
+      "content": {
+        "4": {
+          "type": "WIDGET",
+          "widgetId": "widget_153",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "95.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "width": "STRETCH",
+              "height": "STRETCH"
+            },
+            "hCenter": false,
+            "vCenter": false
+          }
+        }
+      },
+      "order": [
+        "4"
+      ]
+    },
+    "layout_76": {
+      "content": {},
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": []
+    },
+    "layout_77": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_152",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true,
+              "height": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "effect": {
+              "SCROLL_IN": {
+                "type": "NONE",
+                "option": {
+                  "direction": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "First",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_78": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_244",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Second",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_107": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_217",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "AUTO"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "500px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "setting": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_112": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_232",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "AUTO"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "600px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "setting": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_113": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_234",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "AUTO"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "600px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "setting": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_114": {
+      "type": "FLOW",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_236",
+          "bbox": {
+            "left": "0px",
+            "right": "800px",
+            "top": "0px",
+            "bottom": "700px",
+            "width": "800px",
+            "height": "720px"
+          },
+          "setting": {
+            "heightMode": "auto"
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_115": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_237",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "AUTO"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "700px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "setting": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_116": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_239",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "AUTO"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "600px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "setting": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_117": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_241",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "AUTO"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "600px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "setting": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_119": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_242",
+          "bbox": {
+            "width": "300px",
+            "height": "165px"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO"
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_151",
+          "bbox": {
+            "width": "300px",
+            "height": "250px"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO"
+            }
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_260",
+          "bbox": {
+            "width": "300px",
+            "height": "57px"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO"
+            }
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_261",
+          "bbox": {
+            "width": "300px",
+            "height": "200px"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO"
+            }
+          }
+        }
+      },
+      "type": "COLUMN",
+      "label": "Default",
+      "order": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ],
+      "setting": {
+        "space": 10
+      }
+    },
+    "layout_120": {
+      "type": "FIXED",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "width": "CUSTOM",
+              "right": false,
+              "left": true,
+              "bottom": true,
+              "top": false
+            },
+            "lockParent": false,
+            "heightMode": "ratio",
+            "aspectRatio": 1
+          },
+          "bbox": {
+            "left": "92.7441%",
+            "right": "11.00px",
+            "top": "11.00px",
+            "bottom": "16.00px",
+            "width": "24.00px",
+            "height": "24px"
+          },
+          "widgetId": "widget_246"
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_250",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100.0%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false
+          }
+        }
+      },
+      "order": [
+        "1",
+        "2"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_123": {
+      "type": "FIXED",
+      "order": [
+        "6"
+      ],
+      "content": {
+        "6": {
+          "type": "WIDGET",
+          "widgetId": "widget_256",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "-0.2%",
+            "bottom": "1.8%",
+            "width": "100.0%",
+            "height": "98.4%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": true,
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      }
+    },
+    "layout_124": {
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_255",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            },
+            "offsetX": 0,
+            "offsetY": 0
+          },
+          "bbox": {
+            "left": 10,
+            "width": 2,
+            "height": "28px"
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_257",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            },
+            "heightMode": "fixed",
+            "aspectRatio": 0.42
+          },
+          "bbox": {
+            "left": 0,
+            "width": 1,
+            "height": "36px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "2",
+        "1"
+      ],
+      "setting": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_125": {
+      "type": "FLOW",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_258",
+          "bbox": {
+            "left": "0px",
+            "right": "900px",
+            "top": "54px",
+            "bottom": "754px",
+            "width": "900px",
+            "height": 720
+          },
+          "setting": {
+            "heightMode": "auto"
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_126": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_259",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "AUTO"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "700px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "setting": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    }
+  },
+  "exbVersion": "1.21.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/default/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_151": {
+      "uri": "widgets/common/edit/",
+      "version": "1.21.0",
+      "label": "Edit",
+      "config": {
+        "layersConfig": [],
+        "editMode": "GEOMETRY",
+        "selfSnapping": false,
+        "featureSnapping": false,
+        "defaultSelfEnabled": false,
+        "defaultFeatureEnabled": false,
+        "defaultSnapLayers": [],
+        "tooltip": false,
+        "templateFilter": false,
+        "liveDataEditing": true,
+        "relatedRecords": false,
+        "description": "",
+        "noDataMessage": "",
+        "snapSettingMode": "FLEXIBLE",
+        "mapViewsConfig": {
+          "widget_152-dataSource_21": {
+            "customizeLayers": true,
+            "customJimuLayerViewIds": [],
+            "layersConfig": []
+          }
+        },
+        "defaultTooltipEnabled": false,
+        "segmentLabel": false,
+        "defaultSegmentLabelEnabled": false,
+        "splitButton": true,
+        "copyPaste": true,
+        "initialReshapeMode": false,
+        "advancedEditingTools": false
+      },
+      "id": "widget_151",
+      "useMapWidgetIds": [
+        "widget_152"
+      ],
+      "useDataSources": []
+    },
+    "widget_152": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.21.0",
+      "label": "Map 2",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true,
+          "canLocate": true,
+          "canCompass": true,
+          "canLayers": true,
+          "canBaseMap": true,
+          "canMeasure": true,
+          "canFullScreen": true,
+          "canScaleBar": true,
+          "canSelect": true,
+          "canSelectState": true,
+          "canExtentNavigate": true,
+          "canOverviewMap": true
+        },
+        "isUseCustomMapState": false,
+        "initialMapDataSourceID": "dataSource_21",
+        "initialMapState": null,
+        "layoutIndex": 0,
+        "clientQueryDataSourceIds": [
+          "dataSource_21"
+        ],
+        "showPopupUponSelection": true,
+        "scaleRange": null,
+        "customLODs": null
+      },
+      "id": "widget_152",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_76"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_21",
+          "mainDataSourceId": "dataSource_21"
+        }
+      ],
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      }
+    },
+    "widget_153": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.21.0",
+      "label": "Sidebar",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "300px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "RIGHT",
+          "offsetX": -15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          }
+        },
+        "defaultState": 1
+      },
+      "id": "widget_153",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_77"
+        },
+        "SECOND": {
+          "LARGE": "layout_78"
+        }
+      }
+    },
+    "widget_216": {
+      "uri": "widgets/layout/row/",
+      "version": "1.21.0",
+      "label": "Body Container",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_216",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_107"
+        }
+      }
+    },
+    "widget_217": {
+      "uri": "widgets/body-section/",
+      "version": "1.21.0",
+      "label": "Body Section",
+      "config": null,
+      "id": "widget_217"
+    },
+    "widget_231": {
+      "uri": "widgets/layout/row/",
+      "version": "1.21.0",
+      "label": "Block 38",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_231",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_112"
+        }
+      }
+    },
+    "widget_232": {
+      "uri": "widgets/gad-gallery/",
+      "version": "1.21.0",
+      "label": "GAD Activities Gallery",
+      "config": null,
+      "id": "widget_232"
+    },
+    "widget_233": {
+      "uri": "widgets/layout/row/",
+      "version": "1.21.0",
+      "label": "Block 39",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_233",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_113"
+        }
+      }
+    },
+    "widget_234": {
+      "uri": "widgets/view-feedbacks/",
+      "version": "1.21.0",
+      "label": "View Feedbacks",
+      "config": null,
+      "id": "widget_234"
+    },
+    "widget_236": {
+      "uri": "widgets/layout/row/",
+      "version": "1.21.0",
+      "label": "Block 40",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_236",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_115"
+        }
+      }
+    },
+    "widget_237": {
+      "uri": "widgets/guides-and-tutorials/",
+      "version": "1.21.0",
+      "label": "Guides and Tutorials 2",
+      "config": null,
+      "id": "widget_237"
+    },
+    "widget_238": {
+      "uri": "widgets/layout/row/",
+      "version": "1.21.0",
+      "label": "About Container",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_238",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_116"
+        }
+      }
+    },
+    "widget_239": {
+      "uri": "widgets/about/",
+      "version": "1.21.0",
+      "label": "About",
+      "config": null,
+      "id": "widget_239"
+    },
+    "widget_240": {
+      "uri": "widgets/layout/row/",
+      "version": "1.21.0",
+      "label": "Block 42",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_240",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_117"
+        }
+      }
+    },
+    "widget_241": {
+      "uri": "widgets/lcd-in-action/",
+      "version": "1.21.0",
+      "label": "LCD in Action",
+      "config": null,
+      "id": "widget_241"
+    },
+    "widget_242": {
+      "uri": "widgets/lcmap-filter/",
+      "version": "1.21.0",
+      "label": "LC Map Filter",
+      "config": {},
+      "id": "widget_242",
+      "useMapWidgetIds": [
+        "widget_152"
+      ]
+    },
+    "widget_244": {
+      "uri": "widgets/layout/column/",
+      "version": "1.21.0",
+      "label": "Column",
+      "config": {
+        "space": {
+          "distance": 10,
+          "unit": "px"
+        },
+        "style": {
+          "padding": {
+            "space": [
+              10
+            ],
+            "unit": "px"
+          },
+          "justifyContent": "flex-start",
+          "alignItems": "stretch"
+        }
+      },
+      "id": "widget_244",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_119"
+        }
+      }
+    },
+    "widget_246": {
+      "uri": "widgets/common/button/",
+      "version": "1.21.0",
+      "label": "Button",
+      "config": {
+        "functionConfig": {
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "current_page",
+            "openType": "_self"
+          },
+          "icon": {
+            "data": {
+              "svg": "<svg viewBox=\"0 0 14 14\" xmlns=\"http://www.w3.org/2000/svg\"><g fill-rule=\"nonzero\" fill=\"none\"><path d=\"M7.745 7l4.1 4.1a.527.527 0 01-.745.746L7 7.746l-4.1 4.1a.527.527 0 01-.746-.746l4.1-4.1-4.1-4.1a.527.527 0 01.746-.746l4.1 4.1 4.1-4.1a.527.527 0 01.746.746L7.746 7z\" fill=\"#000\"></path><path d=\"M1 1h12v12H1z\"></path></g></svg>",
+              "properties": {
+                "filename": ""
+              }
+            },
+            "position": "LEFT"
+          },
+          "customIcons": [
+            {
+              "svg": "<svg viewBox=\"0 0 14 14\" xmlns=\"http://www.w3.org/2000/svg\"><g fill-rule=\"nonzero\" fill=\"none\"><path d=\"M7.745 7l4.1 4.1a.527.527 0 01-.745.746L7 7.746l-4.1 4.1a.527.527 0 01-.746-.746l4.1-4.1-4.1-4.1a.527.527 0 01.746-.746l4.1 4.1 4.1-4.1a.527.527 0 01.746.746L7.746 7z\" fill=\"#000\"></path><path d=\"M1 1h12v12H1z\"></path></g></svg>",
+              "properties": {
+                "filename": ""
+              }
+            }
+          ],
+          "text": "",
+          "textExpression": null
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "customStyle": {
+            "hover": {
+              "enableDynamicStyle": false,
+              "borderRadius": {
+                "number": [
+                  100,
+                  100,
+                  100,
+                  100
+                ],
+                "unit": "px"
+              }
+            },
+            "regular": {
+              "enableDynamicStyle": false,
+              "borderRadius": {
+                "number": [
+                  100,
+                  100,
+                  100,
+                  100
+                ],
+                "unit": "px"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_246"
+    },
+    "widget_250": {
+      "uri": "widgets/forestland-menu/",
+      "version": "1.21.0",
+      "label": "Forestland Menu",
+      "config": null,
+      "id": "widget_250"
+    },
+    "widget_255": {
+      "uri": "widgets/common/login/",
+      "version": "1.21.0",
+      "inControllerUx": "offPanel",
+      "label": "Login",
+      "config": {
+        "functionConfig": {
+          "loginOptions": {
+            "useAdvanceLogin": true,
+            "logoutAllResources": false
+          }
+        },
+        "styleConfig": {
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "rgba(0,0,0,0)",
+                "fillType": "fill"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_255",
+      "style": {
+        "boxShadow": {
+          "presetStyle": "shadow-none"
+        },
+        "borderRadius": null,
+        "border": {
+          "color": null,
+          "type": "solid",
+          "width": "2px"
+        }
+      }
+    },
+    "widget_256": {
+      "uri": "widgets/layout/row/",
+      "version": "1.21.0",
+      "label": "Row",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_256",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_124"
+        }
+      },
+      "style": {
+        "borderBottom": {
+          "type": "solid",
+          "color": "#0b5e2e",
+          "width": "3px"
+        }
+      }
+    },
+    "widget_257": {
+      "uri": "widgets/common/button/",
+      "version": "1.21.0",
+      "label": "Button 2",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "toolTip": "",
+          "linkParam": {
+            "linkType": "DIALOG",
+            "value": "dialog_1"
+          },
+          "icon": {
+            "data": {
+              "svg": "${appResourceUrl}/images/icon_picker_in_setting/1785666687135.png",
+              "properties": {
+                "filename": "1785666687135.png",
+                "originalName": "hamburger.png",
+                "path": "${appResourceUrl}/images/icon_picker_in_setting/1785666687135.png",
+                "inlineSvg": false,
+                "isUploaded": true,
+                "color": "var(--ref-palette-neutral-1100)"
+              }
+            },
+            "position": "LEFT"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "enableDynamicStyle": false,
+              "boxShadow": null
+            },
+            "regular": {
+              "enableDynamicStyle": false,
+              "border": {
+                "width": "0px"
+              },
+              "boxShadow": {
+                "offsetX": "0px",
+                "offsetY": "0px",
+                "blur": "0px",
+                "spread": "0px"
+              },
+              "borderRadius": {
+                "number": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "unit": "px"
+              },
+              "background": {
+                "fillType": "fit"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_257",
+      "useDataSources": [],
+      "useDataSourcesEnabled": false,
+      "style": {
+        "borderRadius": null,
+        "boxShadow": {
+          "presetStyle": "shadow-none"
+        },
+        "border": {
+          "color": null,
+          "type": "solid",
+          "width": "2px"
+        }
+      }
+    },
+    "widget_258": {
+      "uri": "widgets/layout/row/",
+      "version": "1.21.0",
+      "label": "Block 43",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_258",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_126"
+        }
+      }
+    },
+    "widget_259": {
+      "uri": "widgets/content-admin/",
+      "version": "1.21.0",
+      "label": "Content Admin",
+      "config": null,
+      "id": "widget_259"
+    },
+    "widget_260": {
+      "uri": "widgets/shapefile-preview/",
+      "version": "1.21.0",
+      "label": "Shapefile Preview",
+      "config": {},
+      "id": "widget_260",
+      "useMapWidgetIds": [
+        "widget_152"
+      ]
+    },
+    "widget_261": {
+      "uri": "widgets/local-layers-list/",
+      "version": "1.21.0",
+      "label": "Local Layers List",
+      "config": {},
+      "id": "widget_261",
+      "useMapWidgetIds": [
+        "widget_152"
+      ]
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {
+    "dialog_1": {
+      "id": "dialog_1",
+      "mode": "FIXED",
+      "blockPage": true,
+      "sizeMode": {
+        "LARGE": {
+          "position": "MIDDLE_LEFT",
+          "width": "356px",
+          "height": "100.0%",
+          "offsetX": 0,
+          "offsetY": 0,
+          "widthMode": "CUSTOM",
+          "heightMode": "CUSTOM"
+        }
+      },
+      "dialogBackground": {
+        "color": "var(--sys-color-surface-overlay)",
+        "fillType": "fill",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": "var(--dark-900)",
+      "layout": {
+        "LARGE": "layout_120"
+      },
+      "index": 0,
+      "isSplash": false,
+      "border": {
+        "color": "var(--sys-color-divider-secondary)",
+        "type": "solid",
+        "width": "2px"
+      },
+      "label": "Forestland-Menu",
+      "closeWhenClickOverlay": true,
+      "interactionType": null,
+      "interactionStyles": null,
+      "confirmBeforeClose": true,
+      "alwaysShowConfirmation": false
+    }
+  },
+  "dataSources": {
+    "dataSource_21": {
+      "id": "dataSource_21",
+      "type": "WEB_MAP",
+      "sourceLabel": "Basemap",
+      "itemId": "f31399ec22f2423aa35d6c7ad56fc29f",
+      "portalUrl": "https://geospatial.namria.gov.ph/portal"
+    },
+    "dataSource_22": {
+      "id": "dataSource_22",
+      "type": "WEB_MAP",
+      "sourceLabel": "LC Map 3659",
+      "itemId": "d1c9514e062547eca27c882fe2f485e5",
+      "portalUrl": "https://geospatial.namria.gov.ph/portal"
+    }
+  },
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://geospatial.namria.gov.ph/portal",
+    "favicon": {
+      "svg": "${appResourceUrl}/images/icon_picker_in_setting/1788186813347.png",
+      "properties": {
+        "filename": "1788186813347.png",
+        "originalName": "namria-logo.png",
+        "path": "${appResourceUrl}/images/icon_picker_in_setting/1788186813347.png",
+        "inlineSvg": false,
+        "isUploaded": true,
+        "color": "var(--ref-palette-neutral-1100)"
+      }
+    }
+  },
+  "sharedThemeVariables": null,
+  "pageStructure": [
+    {
+      "page_7": []
+    },
+    {
+      "page_8": []
+    },
+    {
+      "page_9": []
+    },
+    {
+      "page_12": []
+    },
+    {
+      "page_15": []
+    },
+    {
+      "page_13": []
+    },
+    {
+      "page_11": []
+    },
+    {
+      "page_17": []
+    }
+  ],
+  "header": {
+    "layout": {
+      "LARGE": "layout_123"
+    },
+    "height": {
+      "LARGE": "40px"
+    },
+    "backgroundColor": "#ffffff",
+    "sticky": true,
+    "textColor": "#1a1c1c"
+  },
+  "customTheme": {},
+  "footer": {
+    "layout": {
+      "LARGE": "layout_21"
+    },
+    "height": {
+      "LARGE": 75
+    }
+  },
+  "timestamp": 1788696430535,
+  "mainLocale": "en-us",
+  "permission": {
+    "restrictions": [],
+    "blockSignInPrompt": false,
+    "blockPermissionBanner": false
+  },
+  "analytics": {
+    "enable": false
+  },
+  "utilities": {
+    "utility_1": {
+      "id": "utility_1",
+      "type": "PRINTING",
+      "name": "printTask",
+      "label": "Printing",
+      "url": "https://svm-namria-gserver.namria.gov.ph/server/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+      "source": "org",
+      "orgSetting": {}
+    }
+  }
+}
